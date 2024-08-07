@@ -1,0 +1,14 @@
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\bin\Debug\net8.0\CSharpTest.exe
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\bin\Debug\net8.0\CSharpTest.deps.json
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\bin\Debug\net8.0\CSharpTest.runtimeconfig.json
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\bin\Debug\net8.0\CSharpTest.dll
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\bin\Debug\net8.0\CSharpTest.pdb
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.AssemblyInfo.cs
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.dll
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\refint\CSharpTest.dll
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.pdb
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\CSharpTest.genruntimeconfig.cache
+C:\Users\ParticulR\Documents\Breno\vscode\CSharp\CSharpTest\obj\Debug\net8.0\ref\CSharpTest.dll
